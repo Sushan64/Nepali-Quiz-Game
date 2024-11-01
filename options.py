@@ -1,0 +1,10 @@
+options = (("A. Manaag", "B. Mustang", "C. Bhankuta", "D. Nuwakot"),
+          ("A. 9", "B. 10", "C. 11", "D. 12"),
+          ("A. Puspa Kamal Dahal", "B. BP Koirala", "C. Shukraraj Shastri", "D. Prithivi Narayana Shah"),
+          ("A. 21", "B. 22", "C. 23", "D. 24"),
+          ("A. 17.95%", "B. 17.96%", "C. 17.97%", "D. 17.87%"),
+          ("A. Araniko Highway", "B. Tribhuvan Highway", "C. Prithiwi Highway", "D. Mahendra Highway"),
+          ("A. BP Highway", "B. Prithwi Highway", "C. Araniko Highway", "D. Mahendra Highway"),
+          ("A. Fly Leaf", "B. No Paper", "C. Blank Cover", "D. Clean Leaf"),
+          ("A. Newton", "B. Balmeeki", "C. Arya Bhatt", "D. Albert Einstein"),
+          ("A. Jhapa", "B. Sholukhumbu", "C. Bhankuta", "D. ilam"))
