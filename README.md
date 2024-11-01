@@ -1,4 +1,4 @@
-## Nepali Quiz
+## Nepali Quiz Game
 
 Welcome to the **Nepali Quiz** project! This is a Python-based quiz game designed to test your knowledge of Nepal with questions on various topics related to Nepali culture, history, and more. This project was created without external help, solely relying on personal knowledge and skills.
 
