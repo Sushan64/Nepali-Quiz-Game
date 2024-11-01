@@ -13,7 +13,7 @@ Welcome to the **Nepali Quiz** project! This is a Python-based quiz game designe
 
 ## About the Project
 
-This Nepali Quiz game was developed in Python as a fun way to challenge yourself on Nepali trivia. The questions are presented one at a time, and players get immediate feedback on their answers. The game keeps track of the score and provides a summary at the end.
+This Nepali Quiz game was developed in Python as a fun way to challenge yourself on Nepali trivia by Sushan Khatiwada. The questions are presented one at a time, and players get immediate feedback on their answers. The game keeps track of the score and provides a summary at the end.
 
 ## Features
 
@@ -71,4 +71,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License. Develop by Sushan Khatiwada.
