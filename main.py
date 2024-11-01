@@ -43,4 +43,4 @@ for a in range(0, len(ans)): #again this is also same, not to display comma in t
     print(ans[a])
   else:
     print(ans[a], end=", ")
-print(f"Your score is {score}/{len(questions)}")
+print(f"Your score is {score}/{len(q)}")
