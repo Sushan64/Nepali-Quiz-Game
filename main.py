@@ -25,7 +25,7 @@ for question in q:
   else:
     print('—————————————')
     print('INCORRECT!')
-    print(f"Correct answer is {answer[i]}")
+    print(f"Correct answer is {ans[i]}")
   print('—————————————')
   
   i += 1
@@ -40,7 +40,7 @@ for g in range(0, len(guess)):
 print("Correct Answers: ", end="")
 for a in range(0, len(ans)): #again this is also same, not to display comma in the last e.g. if we don't use this code output will be like A,B,C,D, but after this output will be like A,B,C,D
   if a == (len(ans) -1):
-    print(answer[a])
+    print(ans[a])
   else:
     print(ans[a], end=", ")
 print(f"Your score is {score}/{len(questions)}")
