@@ -17,7 +17,7 @@ for question in q:
   user_choose = input("Enter (A, B, C, D): ").upper()
   
   guess.append(user_choose) 
-  
+  print(f"{user_choose}, {ans[i]}")
   if user_choose == ans[i]:
     print('—————————————')
     print('COORECT!')
