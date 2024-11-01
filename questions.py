@@ -1,0 +1,10 @@
+questions = ("1. In which district is the ‘Fungfung’ waterfall?",
+             "2. How many heritage properties are listed in the World Heritage List?",
+             "3. Who was the first to use the word ‘Jai Nepal’?",
+             "4. How many national pride projects are there in Nepal right now?",
+             "5. What percentage of the total land area of Nepal is cultivated on land?",
+             "6. Which is Nepal’s first highway?",
+             "7. What is the name of road: Kathmandu – Pokhara?",
+             "8. What is called the blank sheet on the front and back of the book?",
+             "9. Who is the ‘Zero’ Inventor?",
+             "10. From which district did tea cultivation originate in Nepal?")
