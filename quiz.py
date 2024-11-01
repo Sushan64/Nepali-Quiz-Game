@@ -33,14 +33,14 @@ answer = ("D",
          "C",
          "D")
 
-i = 0
+i = 0 #this is using in loop
 score = 0
 guess = []
 for question in questions:
 
   print(question)
   for o in range(0, len(options[i])):
-    if o == (len(options[i]) -1):
+    if o == (len(options[i]) -1): #this is for not displaying comma in the last.
       print(options[i][o])
     else:
       print(options[i][o], end=', ')
@@ -51,7 +51,7 @@ for question in questions:
   if user_choose == answer[i]:
     print('—————————————')
     print('COORECT!')
-    score += 1
+    score += 1 #increasing the score of the user
   else:
     print('—————————————')
     print('INCORRECT!')
@@ -61,7 +61,7 @@ for question in questions:
   i += 1
 
 print("Your guess: ", end="")
-for g in range(0, len(guess)):
+for g in range(0, len(guess)): #again this is also same, not to display comma in the last e.g. if we don't use this code output will be like A,B,C,D, but after this output will be like A,B,C,D
   if g == (len(guess) -1):
     print(guess[g])
   else:
