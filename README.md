@@ -34,17 +34,17 @@ Make sure you have Python installed on your machine. You can download Python fro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sushan64/Nepali-Quiz-using-Python.git
+   git clone https://github.com/Sushan64/Nepali-Quiz-Game.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Nepali-Quiz-using-Python
+   cd Nepali-Quiz-Game
    ```
 
 3. Run the quiz game:
    ```bash
-   python nepali_quiz.py
+   python main.py
    ```
 
 ## How to Play
@@ -53,6 +53,9 @@ Make sure you have Python installed on your machine. You can download Python fro
 2. **Answer Questions**: You will be prompted with questions and a set of possible answers. Enter the number corresponding to your answer choice.
 3. **Receive Feedback**: The program will tell you if your answer is correct or incorrect.
 4. **Track Your Score**: After each question, your score is updated. At the end, you’ll receive a summary of your performance.
+5. **Run the Quiz Game**: 
+   ```bash
+   python main.py
 
 ## Future Enhancements
 
