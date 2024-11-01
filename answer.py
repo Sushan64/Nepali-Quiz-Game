@@ -1,4 +1,5 @@
-answer = ("D",
+answer = (
+          "D",
           "B",
           "C",
           "C",
